@@ -24,6 +24,9 @@ Uses a boolean method in LoginPage to assert whether the user is successfully lo
 
 
 
+Link test :: 
+
+
 
 
 
